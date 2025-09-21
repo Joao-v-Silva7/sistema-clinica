@@ -1,0 +1,30 @@
+# Arquivos binários do Delphi
+*.exe
+*.dll
+*.dcu
+*.bpl
+*.dcp
+*.so
+*.apk
+*.dmg
+*.app
+
+# Configurações temporárias
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
+
+# Build e saída
+__history/
+__recovery/
+*.stat
+*.map
+*.tds
+
+# Pastas de compilação
+Win32/Debug/
+Win32/Release/
+Win64/Debug/
+Win64/Release/
