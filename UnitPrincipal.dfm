@@ -776,10 +776,7 @@ object FormPrincipal: TFormPrincipal
       0000090800000000200101000000002420000000008004040000000090800000
       0000001210000000004002020000000048E0FF76637C495751D37C0000000049
       454E44AE426082}
-    ExplicitLeft = 288
-    ExplicitTop = 232
-    ExplicitWidth = 105
-    ExplicitHeight = 105
+    ExplicitTop = 70
   end
   object Panel1: TPanel
     Left = 0
